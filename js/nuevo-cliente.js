@@ -30,7 +30,7 @@ import { validatorObject } from './utils/validator-object.js';
     //   email: email,
     //   telefono: telefono,
     //   empresa: empresa
-    // };
+    // };7
     if(validatorObject(cliente)) {
       // console.log('Los campos son requeridos!');
       mostrarAlerta('Los campos son requeridos!');
